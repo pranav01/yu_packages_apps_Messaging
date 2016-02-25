@@ -965,6 +965,9 @@
 
     <!-- Toast message telling the user a conversation with a recipient could not be found or created -->
     <string name="conversation_creation_failure">Could not start conversation</string>
+	
+	<!-- Always Ask For MSIM Devices -->
+	<string name="select_phone_account_title">Send with</string>
 
     <!-- When converting html to text link urls are inlined.  This specifies how the link should be
     displayed.  For example, a link "click here" which navigates to "www.google.com" would have
